@@ -1,2 +1,2 @@
 # GetEmail
-Get email given a String
+Get email address given a String in Java
